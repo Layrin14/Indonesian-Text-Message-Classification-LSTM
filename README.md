@@ -26,5 +26,5 @@ In this project, the model was able to be fitted with overall acurracy score of 
 |**Average**|**0.92**|**0.92**|**0.92**|**0.94**|
 
 ---
-You can check model [here](https://nbviewer.org/github/Layrin14/Indonesian-Text-Message-Classification-LSTM/blob/master/Indonesian_SMS_Classification_with_LSTM.ipynb)
+### You can check model [here](https://nbviewer.org/github/Layrin14/Indonesian-Text-Message-Classification-LSTM/blob/master/Indonesian_SMS_Classification_with_LSTM.ipynb)
 
