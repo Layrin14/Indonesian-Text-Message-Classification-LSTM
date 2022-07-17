@@ -13,7 +13,7 @@ The text dataset used in this project was obtained in two ways which is by expor
 
 ## Goal
 
-The goal of this project is to create LSTM model that can classify Indonesian text message into three categories that are mentioned above and implement it in an android texting app.
+The goal of this project is to create LSTM model that can classify Indonesian text message into three categories that are mentioned above and implement it in an android texting app ([link here](https://github.com/Layrin14/android-lstm-sms-app)).
 
 ## Conclusion / Result
 
